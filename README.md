@@ -3,7 +3,7 @@ Todo conteúdo aqui é voltadopara área de desenvolvimento de hardware
 
 | Tutoriais/Títulos    | Descrição/Link Medium  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | --- | :---: | :---: |
-| Esp32 + SCT013 (Aula 01) | [Como calcular resistorde carga para sensor sct013]() | [Vídeo Youtube]([https://youtu.be/wQ1ea-3BZhA](https://youtu.be/NkTJDhDTPwY)) | [Fonte]() |
+| Esp32 + SCT013 (Aula 01) | [Como calcular resistorde carga para sensor sct013]() | [Vídeo Youtube](https://youtu.be/wQ1ea-3BZhA) | [Fonte]() |
 
 
 
